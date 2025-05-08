@@ -1,7 +1,7 @@
 <!-- # 💫 About Me: -->
 
 <p align="center">
-   <img src="dino.gif" width="200" height="200" />
+   <img src="dino.gif">
 </p>
 
 ## 🌐 Socials:
