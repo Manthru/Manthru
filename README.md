@@ -4,9 +4,22 @@
    <img src="dino.gif">
 </p>
 
-## 🌐 Socials:
+<h2 align="center">📬 Connect with Me</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_manthru_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manthru) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@manthrunaikramavath8630) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manthrunaik455@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/manthru/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Manthru-blue?logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/_manthru_/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Manthru-pink?logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://codeforces.com/profile/Manthru" target="blank">
+    <img src="https://img.shields.io/badge/Codeforces-Manthru-orange?logo=codeforces" alt="Codeforces"/>
+  </a>
+  <a href="https://leetcode.com/u/manthru/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-Manthru-yellow?logo=leetcode" alt="LeetCode"/>
+  </a>
+</p>
 
 # 💻 Tech Stack:
 
