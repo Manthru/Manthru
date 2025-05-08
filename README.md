@@ -21,6 +21,106 @@
   </a>
 </p>
 
+<!-- ----------------------------------------------------------------------------------------------->
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th>Category</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Competitive Programming & Algorithms -->
+    <tr>
+      <td><strong>Competitive Programming & Algorithms</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+      </td>
+    </tr>
+
+    <!-- Software Development & Engineering -->
+    <tr>
+      <td><strong>Software Development & Engineering</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"/>
+        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40"/>
+        <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40"/>
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40"/>
+        <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40"/>
+        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"/>
+        <img src="https://skillicons.dev/icons?i=django" alt="Django REST" width="40"/>
+      </td>
+    </tr>
+
+    <!-- UI & Frontend Development -->
+    <tr>
+      <td><strong>UI & Frontend Development</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40"/>
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40"/>
+        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40"/>
+      </td>
+    </tr>
+
+    <!-- Database & Backend Technologies -->
+    <tr>
+      <td><strong>Database & Backend Technologies</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40"/>
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/>
+        <img src="https://mariadb.com/wp-content/themes/mariadb-sage/public/images/mariadb-logo-mark@2x.d3f9b9.png" alt="MariaDB" width="40"/>
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40"/>
+      </td>
+    </tr>
+
+    <!-- DevOps & Cloud -->
+    <tr>
+      <td><strong>DevOps & Cloud Technologies</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>
+        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40"/>
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS Lambda" width="40"/>
+      </td>
+    </tr>
+
+    <!-- Security & Authentication -->
+    <tr>
+      <td><strong>Security & Authentication</strong></td>
+      <td>
+        <img src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=3840&q=75" alt="JWT" width="40"/>
+      </td>
+    </tr>
+
+    <!-- Testing & QA -->
+    <tr>
+      <td><strong>Testing & Quality Assurance</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" width="40"/>
+        <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" width="40"/>
+        <img src="https://skillicons.dev/icons?i=puppeteer" alt="Puppeteer" width="40"/>
+      </td>
+    </tr>
+
+    <!-- Tools & Platforms -->
+    <tr>
+      <td><strong>Software Tools & Platforms</strong></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
+        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40"/>
+        <img src="https://www.twilio.com/docs/images/twilio-logo-red.svg" alt="Twilio" width="40"/>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+
 # 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
