@@ -23,101 +23,85 @@
 
 <!-- ----------------------------------------------------------------------------------------------->
 
-<h2 align="center">🛠️ Languages & Tools</h2>
+<h2 style="text-align: center;">🛠️ Languages & Tools</h2>
 
-<table border="1" cellspacing="0" cellpadding="10" style="width: 100%; border-collapse: collapse; text-align: center;">
+<table>
   <thead>
-    <tr style="background-color: #f2f2f2;">
+    <tr>
       <th>Category</th>
       <th>Technologies</th>
     </tr>
   </thead>
   <tbody>
-    <!-- Competitive Programming & Algorithms -->
     <tr>
       <td><strong>Competitive Programming & Algorithms</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+        <img src="https://skillicons.dev/icons?i=c" height="40" />
+        <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+        <img src="https://skillicons.dev/icons?i=py" height="40" />
       </td>
     </tr>
-
-    <!-- Software Development & Engineering -->
     <tr>
       <td><strong>Software Development & Engineering</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40"/>
-        <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40"/>
-        <img src="https://skillicons.dev/icons?i=react" alt="React.js" width="40"/>
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40"/>
-        <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="40"/>
-        <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40"/>
-        <img src="https://skillicons.dev/icons?i=django" alt="Django REST" width="40"/>
+        <img src="https://skillicons.dev/icons?i=js" height="40" />
+        <img src="https://skillicons.dev/icons?i=ts" height="40" />
+        <img src="https://skillicons.dev/icons?i=react" height="40" />
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
+        <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
+        <img src="https://skillicons.dev/icons?i=express" height="40" />
+        <img src="https://skillicons.dev/icons?i=django" height="40" />
       </td>
     </tr>
-
-    <!-- UI & Frontend Development -->
     <tr>
       <td><strong>UI & Frontend Development</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40"/>
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40"/>
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="40"/>
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40"/>
-        <img src="https://skillicons.dev/icons?i=sass" alt="SASS" width="40"/>
+        <img src="https://skillicons.dev/icons?i=html" height="40" />
+        <img src="https://skillicons.dev/icons?i=css" height="40" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="40" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+        <img src="https://skillicons.dev/icons?i=sass" height="40" />
       </td>
     </tr>
-
-    <!-- Database & Backend Technologies -->
     <tr>
       <td><strong>Database & Backend Technologies</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40"/>
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40"/>
-        <img src="https://mariadb.com/wp-content/themes/mariadb-sage/public/images/mariadb-logo-mark@2x.d3f9b9.png" alt="MariaDB" width="40"/>
-        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40"/>
+        <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+        <img src="https://skillicons.dev/icons?i=redis" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/MariaDB_textlogo.svg" height="40" alt="MariaDB"/>
       </td>
     </tr>
-
-    <!-- DevOps & Cloud -->
     <tr>
       <td><strong>DevOps & Cloud Technologies</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40"/>
-        <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="40"/>
-        <img src="https://skillicons.dev/icons?i=aws" alt="AWS Lambda" width="40"/>
+        <img src="https://skillicons.dev/icons?i=docker" height="40" />
+        <img src="https://skillicons.dev/icons?i=aws" height="40" />
+        <img src="https://skillicons.dev/icons?i=gcp" height="40" />
       </td>
     </tr>
-
-    <!-- Security & Authentication -->
     <tr>
       <td><strong>Security & Authentication</strong></td>
       <td>
-        <img src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=3840&q=75" alt="JWT" width="40"/>
+        <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT"/>
       </td>
     </tr>
-
-    <!-- Testing & QA -->
     <tr>
       <td><strong>Testing & Quality Assurance</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vitest" alt="Vitest" width="40"/>
-        <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" width="40"/>
-        <img src="https://skillicons.dev/icons?i=puppeteer" alt="Puppeteer" width="40"/>
+        <img src="https://skillicons.dev/icons?i=vitest" height="40"/>
+        <img src="https://seeklogo.com/images/P/playwright-logo-16FDC76DDE-seeklogo.com.png" height="40" alt="Playwright" />
+        <img src="https://seeklogo.com/images/P/puppeteer-logo-D78F5D5DAD-seeklogo.com.png" height="40" alt="Puppeteer" />
       </td>
     </tr>
-
-    <!-- Tools & Platforms -->
     <tr>
       <td><strong>Software Tools & Platforms</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40"/>
-        <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40"/>
-        <img src="https://www.twilio.com/docs/images/twilio-logo-red.svg" alt="Twilio" width="40"/>
+        <img src="https://skillicons.dev/icons?i=github" height="40" />
+        <img src="https://skillicons.dev/icons?i=figma" height="40" />
+        <img src="https://seeklogo.com/images/T/twilio-logo-889D741F3B-seeklogo.com.png" height="40" alt="Twilio" />
       </td>
     </tr>
-
   </tbody>
 </table>
 
