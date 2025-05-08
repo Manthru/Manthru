@@ -23,9 +23,9 @@
 
 <!-- ----------------------------------------------------------------------------------------------->
 
-<h2 style="text-align: center;">🛠️ Languages & Tools</h2>
+<h2 align="center">🛠️ Languages & Tools</h2>
 
-<table>
+<table align="center">
   <thead>
     <tr>
       <th>Category</th>
