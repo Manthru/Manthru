@@ -1,6 +1,8 @@
 <!-- # 💫 About Me: -->
 
-<h1>Hi, I'm Manthru Ramavath</h1>
+<p align="center">
+   <img src="dino.gif" width="200" height="200" />
+</p>
 
 ## 🌐 Socials:
 
