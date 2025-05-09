@@ -37,7 +37,6 @@
     <tr>
       <td><strong>Competitive Programming & Algorithms</strong></td>
       <td>
-        <img src="https://skillicons.dev/icons?i=c" height="40" />
         <img src="https://skillicons.dev/icons?i=cpp" height="40" />
         <img src="https://skillicons.dev/icons?i=py" height="40" />
       </td>
@@ -49,7 +48,6 @@
         <img src="https://skillicons.dev/icons?i=ts" height="40" />
         <img src="https://skillicons.dev/icons?i=react" height="40" />
         <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
-        <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
         <img src="https://skillicons.dev/icons?i=express" height="40" />
       </td>
     </tr>
