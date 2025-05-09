@@ -112,13 +112,21 @@
 <!-- ------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manthru&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="Manthru-IIT" />  
-&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manthru&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Manthru-IIT" />
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manthru&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="Top Langs" style="border: 5px solid transparent; border-image: linear-gradient(135deg, deeppink, hotpink) 1; border-radius: 15px;" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=Manthru&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="GitHub Stats" style="border: 5px solid transparent; border-image: linear-gradient(135deg, deeppink, hotpink) 1; border-radius: 15px;" />
+  </a>
 </h3>
+
 <h3 align="center">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manthru&theme=tokyonight" alt="Manthru-IIT" />
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manthru&theme=tokyonight" alt="GitHub Streak" style="border: 5px solid transparent; border-image: linear-gradient(135deg, deeppink, hotpink) 1; border-radius: 15px;" />
+  </a>
 </h3>
+
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
