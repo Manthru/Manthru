@@ -1,4 +1,5 @@
 <!-- # 💫 About Me: -->
+<h1 align="center">Hi, I'm Manthru Ramavath 👋 </h1>
 
 <p align="center">
    <img src="dino.gif">
