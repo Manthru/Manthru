@@ -110,32 +110,18 @@
 </picture>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------->
-
-<h3 align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Manthru&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="Top Langs" style="border: 5px solid transparent; border-image: linear-gradient(135deg, deeppink, hotpink) 1; border-radius: 15px;" />
-  </a>
-  &nbsp;
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manthru&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="GitHub Stats" style="border: 5px solid transparent; border-image: linear-gradient(135deg, deeppink, hotpink) 1; border-radius: 15px;" />
-  </a>
+<h2 align="center">🔥 GitHub Insights & Contribution Stats</h2> 
+<h3 align=center>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manthru&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="Manthru" />  
+&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Manthru&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Manthru" />
 </h3>
-
-<h3 align="center">
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manthru&theme=tokyonight" alt="GitHub Streak" style="border: 5px solid transparent; border-image: linear-gradient(135deg, deeppink, hotpink) 1; border-radius: 15px;" />
-  </a>
+<h3 align=center>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Manthru&theme=tokyonight&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Manthru" />
 </h3>
 
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
-<h2 align="center">🔝 Top Contributed Repo</h2> 
-
-![](https://github-contributor-stats.vercel.app/api?username=Manthru&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Manthru&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
