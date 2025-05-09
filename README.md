@@ -51,7 +51,6 @@
         <img src="https://skillicons.dev/icons?i=nextjs" height="40" />
         <img src="https://skillicons.dev/icons?i=nestjs" height="40" />
         <img src="https://skillicons.dev/icons?i=express" height="40" />
-        <img src="https://skillicons.dev/icons?i=django" height="40" />
       </td>
     </tr>
     <tr>
@@ -70,7 +69,6 @@
         <img src="https://skillicons.dev/icons?i=postgres" height="40" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
         <img src="https://skillicons.dev/icons?i=redis" height="40" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/MariaDB_textlogo.svg" height="40" alt="MariaDB"/>
       </td>
     </tr>
     <tr>
@@ -91,8 +89,6 @@
       <td><strong>Testing & Quality Assurance</strong></td>
       <td>
         <img src="https://skillicons.dev/icons?i=vitest" height="40"/>
-        <img src="https://seeklogo.com/images/P/playwright-logo-16FDC76DDE-seeklogo.com.png" height="40" alt="Playwright" />
-        <img src="https://seeklogo.com/images/P/puppeteer-logo-D78F5D5DAD-seeklogo.com.png" height="40" alt="Puppeteer" />
       </td>
     </tr>
     <tr>
@@ -100,24 +96,33 @@
       <td>
         <img src="https://skillicons.dev/icons?i=github" height="40" />
         <img src="https://skillicons.dev/icons?i=figma" height="40" />
-        <img src="https://seeklogo.com/images/T/twilio-logo-889D741F3B-seeklogo.com.png" height="40" alt="Twilio" />
       </td>
     </tr>
   </tbody>
 </table>
+
+<!-------------------------------------------------------------------------------------------------------------------------->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
 <!-- ------------------------------------------------------------------------------------------------------------------------->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manthru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Manthru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manthru&theme=dark&hide_border=false)<br/>
+<h3 align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Manthru&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="Manthru-IIT" />  
+&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manthru&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Manthru-IIT" />
+</h3>
+<h3 align="center">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manthru&theme=tokyonight" alt="Manthru-IIT" />
+</h3>
 
-### 🔝 Top Contributed Repo
+<!--------------------------------------------------------------------------------------------------------------------------->
+
+<h2 align="center">🔝 Top Contributed Repo</h2> 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Manthru&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
