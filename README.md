@@ -20,6 +20,8 @@
   <a href="https://leetcode.com/u/manthru/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-Manthru-yellow?logo=leetcode" alt="LeetCode"/>
   </a>
+
+   <img src="https://komarev.com/ghpvc/?username=Manthru&label=Profile%20views&color=0e75b6&style=flat" alt="Manthru" />
 </p>
 
 <!-- ----------------------------------------------------------------------------------------------->
@@ -117,7 +119,13 @@
 <h3 align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Manthru&theme=tokyonight&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Manthru" />
 </h3>
+<br>
 
+
+<h2 align="center">⭐ Let's build something amazing together!</h2>
+<div align="center">
+   "Success is not final, failure is not fatal: It is the courage to continue that counts. The path to success is full of challenges, but each step forward is progress. Embrace the journey, learn from every setback, and keep moving forward." — Winston Churchill 🚀💡
+</div>
 
 <!--------------------------------------------------------------------------------------------------------------------------->
 
