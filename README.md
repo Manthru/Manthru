@@ -1,7 +1,7 @@
 <!-- # 💫 About Me: -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FF9800&center=true&width=700&lines=🚀+Software+Development;💻+Full+Stack+Development;🎨+UI%2FUX+Designer"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FF9800&center=true&width=700&lines=🚀+Software+Development;💻+Full+Stack+Development;🧑‍💻+Cloud+Computing;💡+Machine+Learning;🔗+Blockchain"
     alt="Typing animation"
   />
 </p>
@@ -9,6 +9,8 @@
 <p align="center">
    <img src="dino.gif">
 </p>
+
+<!------------------------------------------------------------------------------------------->
 
 <h2 align="center">📬 Connect with Me</h2>
 
@@ -28,6 +30,7 @@
 
    <img src="https://komarev.com/ghpvc/?username=Manthru&label=Profile%20views&color=0e75b6&style=flat" alt="Manthru" />
 </p>
+
 
 <!-- ----------------------------------------------------------------------------------------------->
 
