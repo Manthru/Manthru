@@ -1,5 +1,14 @@
 <!-- # 💫 About Me: -->
-<h1 align="center">Hi, I'm Manthru Ramavath 👋 </h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=4000&pause=1000&color=FF9800&center=true&width=700&lines=🚀+Software+Development;💻+Full+Stack+Development;🎨+UI%2FUX+Designer"
+    alt="Typing animation"
+  />
+</p>
+
+
+
+
 
 <p align="center">
    <img src="dino.gif">
@@ -117,7 +126,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Manthru&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="Manthru" />
 </h3>
 <h3 align=center>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Manthru&theme=tokyonight&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="Manthru" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Manthru&theme=tokyonight" alt="Manthru" />
 </h3>
 <br>
 
