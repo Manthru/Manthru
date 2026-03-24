@@ -88,14 +88,6 @@
       </td>
     </tr>
     <tr>
-      <td><strong>DevOps & Cloud Technologies</strong></td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=docker" height="40" />
-        <img src="https://skillicons.dev/icons?i=aws" height="40" />
-        <img src="https://skillicons.dev/icons?i=gcp" height="40" />
-      </td>
-    </tr>
-    <tr>
       <td><strong>Security & Authentication</strong></td>
       <td>
         <img src="https://jwt.io/img/pic_logo.svg" height="40" alt="JWT"/>
