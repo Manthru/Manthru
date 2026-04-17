@@ -24,7 +24,7 @@
   <a href="https://codeforces.com/profile/Manthru" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-Manthru-orange?logo=codeforces" alt="Codeforces"/>
   </a>
-  <a href="https://leetcode.com/u/manthru/" target="blank">
+  <a href="https://leetcode.com/u/Manthru_Ramavath/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-Manthru-yellow?logo=leetcode" alt="LeetCode"/>
   </a>
 
